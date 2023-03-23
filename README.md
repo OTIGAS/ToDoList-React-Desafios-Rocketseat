@@ -1,6 +1,6 @@
 # ToDo-List--Desafio--Rocketseat
 
-Para desenvolver essa aplicação foi utilizado a biblioteca ReactJS.
+Para desenvolver essa aplicação foi utilizado a biblioteca ReactJS, além de aplicar o TypeScript ao projeto para adicionar tipagem estática à aplicação.
 
 Funcionalidades da aplicação:
 
