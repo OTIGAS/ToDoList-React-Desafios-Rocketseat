@@ -1,4 +1,4 @@
-# ToDo-List--Rocketseat
+# ToDo-List--Desafio--Rocketseat
 
 Para desenvolver essa aplicação foi utilizado a biblioteca ReactJS.
 
